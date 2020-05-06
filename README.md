@@ -1,1 +1,1 @@
-# Augmented-Reality-Video-Projection-Tool-for-Visual-Learning-and-Interactive-Art-Tutorials
+# AR Video for Visual Learning & Art Tutorials
