@@ -1,1 +1,1 @@
-# AR Video for Visual Learning & Art Tutorials
+# AR Video for Visual Arts and Interactive Learning
